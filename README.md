@@ -1,1 +1,1 @@
-This is my project
+This project is a console-based system for managing registrations and services at an educational institution. It allows students, teachers, and staff to register, calculate CGPA, provide feedback, mark attendance, and make updates. Data is stored in text files for each user type (student, teacher, staff). The program offers a menu-driven interface with various options, including student registration, teacher registration, and feedback submission, using C programming concepts like file handling and structs
