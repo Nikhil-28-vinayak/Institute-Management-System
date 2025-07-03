@@ -1,6 +1,6 @@
 
 
-✨ <b>Institute Management System</b><br><br>
+ # ✨ <b>Institute Management System</b><br><br>
 📚 1. Header Files & Structs
 - #include<stdio.h> and #include<string.h> for I/O and string handling.
 - Four structs:
